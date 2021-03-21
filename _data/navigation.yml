@@ -1,0 +1,26 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tag"
+    url: /tags/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  
+docs:
+  - title: Java
+    url: /:categories/:title/
+  - title: Spring
+   
+  - title: Projects
+
+  - title: Error
+#     children:
+#       - title: "Working with Posts"
+#         url: /docs/posts/
+#       - title: "Working with Pages"
+#         url: /docs/pages/
