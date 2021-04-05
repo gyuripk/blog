@@ -1,4 +1,8 @@
-# Untitled
+---
+layout : single
+title : "자바의 상속에 대해서 알아보자!"
+category : java
+---
 
 > 학습목표 : 자바의 상속에 대해서 이해해보자!
 
