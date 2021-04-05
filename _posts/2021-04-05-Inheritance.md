@@ -30,7 +30,7 @@ class Child extends Parents{
 }
 ```
 
-![Untitled%20dbe0ea5ce57b4a85b12af66360c0f6d5/Untitled.png](Untitled%20dbe0ea5ce57b4a85b12af66360c0f6d5/Untitled.png)
+![Untitled%20dbe0ea5ce57b4a85b12af66360c0f6d5/Untitled.png](/assets/images/2021/04/05/Untitled.png)
 
 - 생성자와 초기화 블럭은 상속되지 않는다. 맴버(변수,메서드)만 상속된다.
 - 자식 클래스의 맴버 개수는 부모 클래스보다 항상 같거나 많다.
@@ -46,15 +46,15 @@ class Child extends Parents{
 
      이러한 문제 때문에 자바는 다중 상속을 지원하지 않는다. 
 
-    ![Untitled%20dbe0ea5ce57b4a85b12af66360c0f6d5/Untitled%201.png](Untitled%20dbe0ea5ce57b4a85b12af66360c0f6d5/Untitled%201.png)
+    ![Untitled%20dbe0ea5ce57b4a85b12af66360c0f6d5/Untitled%201.png](/assets/images/2021/04/05/Untitled%201.png)
 
 2. 부모 클래스를 가진 자식클래스도 다른 클래스의 부모 클래스가 될 수 있다. 
 
-    ![Untitled%20dbe0ea5ce57b4a85b12af66360c0f6d5/Untitled%202.png](Untitled%20dbe0ea5ce57b4a85b12af66360c0f6d5/Untitled%202.png)
+    ![Untitled%20dbe0ea5ce57b4a85b12af66360c0f6d5/Untitled%202.png](/assets/images/2021/04/05/Untitled%202.png)
 
 3. 모든 클래스의 가장 위에 있는 부모 클래스는 Object이므로 모든 클래스는 직,간접적으로 Object클래스를 상속받고 있다.
 
-    ![Untitled%20dbe0ea5ce57b4a85b12af66360c0f6d5/Untitled%203.png](Untitled%20dbe0ea5ce57b4a85b12af66360c0f6d5/Untitled%203.png)
+    ![Untitled%20dbe0ea5ce57b4a85b12af66360c0f6d5/Untitled%203.png](/assets/images/2021/04/05/Untitled%203.png)
 
 ---
 
