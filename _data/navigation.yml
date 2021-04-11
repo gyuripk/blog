@@ -14,7 +14,7 @@ main:
 docs:
   - title: Java
     #url: /:categories/:title/
-    url: /categories/Java/
+    url: /categories/#java
   - title: Spring
    
   - title: Projects
