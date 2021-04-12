@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "default","air", "aqua", "contrast", "dar
 # Site Settings
 locale                   : "en-US"
 title                    : "Gyuri.log"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "이건뭐지" #"-"
+subtitle                 : "Fail fast, fail often"
 name                     : "Gyuri Park"
-description              : "An amazing website."
+description              : "Fail fast, fail often"
 url                      : "https://rbfl6418.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
