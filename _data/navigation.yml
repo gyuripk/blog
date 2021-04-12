@@ -16,11 +16,11 @@ docs:
     #url: /:categories/:title/
     url: /categories/#java
   - title: Spring
-    url: /categories/#Spring
+    url: /categories/#spring
   - title: Projects
-    url: /categories/#Projects
+    url: /categories/#projects
   - title: Error
-    url: /categories/#Error
+    url: /categories/#error
 #     children:
 #       - title: "Working with Posts"
 #         url: /docs/posts/
