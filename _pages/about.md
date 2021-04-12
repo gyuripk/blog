@@ -16,9 +16,14 @@ author_profile : true
 - 꾸준함 1일 1커밋 기술 블로그 운영     
  
 
----
-# ⛏️ Skills
 
+
+
+
+
+
+# ⛏️ Skills
+---
 ## Backend
 
 - Java
@@ -35,9 +40,14 @@ author_profile : true
 - JQuery
 
 
----
-# 👩🏻‍💻 Personal Experience & Projects
 
+
+
+
+
+
+# 👩🏻‍💻 Personal Experience & Projects
+---
 ## 구인/구직 사이트
 
 [Github주소](https://github.com/akflzmsdjsl/careerBasket)
