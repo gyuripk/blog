@@ -7,8 +7,6 @@ author_profile : true
 
 # 라이프 스타일을 바꾸는 개발자, 박규리입니다.
 
-# 💁🏻 About Me
-
 ---
 
 ## Introduction
@@ -17,14 +15,6 @@ author_profile : true
 - Clean Code와 Test에 대한 고민을 생활화합니다.
 - 꾸준함 1일 1커밋 기술 블로그 운영
 
-## Contact & Channel
-
-- **Email** **|** **rbfl6418@gmail.com**
-
----
-
-- **Github** **|** [https://github.com/rbfl6418](https://github.com/rbfl6418)
-- **Blog |** [https://rbfl6418.github.io](https://rbfl6418.github.io/)
 
 # ⛏️ Skills
 
@@ -45,13 +35,6 @@ author_profile : true
 - JavaScript
 - JQuery
 
-# 💻 Work Experience & Projects
-
----
-
-## 구인/구직 사이트
-
-- 
 
 # 👩🏻‍💻 Personal Experience & Projects
 
@@ -65,9 +48,6 @@ author_profile : true
 
 - 
 
-# ✍🏼 Presentation & Article
-
----
 
 # 📄 Education
 
@@ -79,6 +59,4 @@ author_profile : true
 
 - 
 
-# 🏅 Certificate
 
----
