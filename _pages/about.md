@@ -13,11 +13,12 @@ author_profile : true
 
 - 안녕하세요. 주니어 백엔드 개발자 박규리입니다.
 - Clean Code와 Test에 대한 고민을 생활화합니다.
-- 꾸준함 1일 1커밋 기술 블로그 운영      
-
-# ⛏️ Skills
+- 꾸준함 1일 1커밋 기술 블로그 운영     
+ 
 
 ---
+# ⛏️ Skills
+
 ## Backend
 
 - Java
@@ -34,10 +35,8 @@ author_profile : true
 - JQuery
 
 
-
-# 👩🏻‍💻 Personal Experience & Projects
-
 ---
+# 👩🏻‍💻 Personal Experience & Projects
 
 ## 구인/구직 사이트
 
@@ -48,10 +47,8 @@ author_profile : true
 - 
 
 
-
-# 📄 Education
-
 ---
+# 📄 Education
 
 ## 웹 & 앱 개발자 양성과정 수료
 
