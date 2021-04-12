@@ -215,7 +215,7 @@ class AudioPlayer extends Player{
 
     [https://velog.io/@zayson/백기선님과-함께하는-Live-Study-6주차-상속](https://velog.io/@zayson/%EB%B0%B1%EA%B8%B0%EC%84%A0%EB%8B%98%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-Live-Study-6%EC%A3%BC%EC%B0%A8-%EC%83%81%EC%86%8D)
 
-    [java - 왜 자바에서 static메소드의 오버라이딩을 허용하지 않는걸까요? | Hashcode](https://www.notion.so/java-static-Hashcode-2b3c137752f846279cda48ca7bde6f83)
+    [왜 자바에서 static메소드의 오버라이딩을 허용하지 않는걸까요?](https://www.notion.so/java-static-Hashcode-2b3c137752f846279cda48ca7bde6f83)
 
     [다형성과 동적 바인딩](https://www.notion.so/77dd1060f8ce4877ba117cb88ef3bfe0)
 
