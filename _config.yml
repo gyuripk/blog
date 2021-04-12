@@ -20,7 +20,7 @@ title                    : "Gyuri.log"
 title_separator          : ""
 subtitle                 : #
 name                     : "Gyuri Park"
-description              : 
+description              : "description부분...!"
 url                      : "https://rbfl6418.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rbfl6418/rbfl6418.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -98,7 +98,7 @@ header:
 author:
   name             : "Gyuri Park"
   avatar           : "/assets/myemoji.jpg"
-  bio              : "Fail fast, fail often"
+  bio              : "사람들의 라이프스타일을 바꾸는 개발자가 되고 싶습니다."
   location         : "Somewhere"
   email            : "rbfl6418@gmail.com"
   links:
