@@ -219,4 +219,4 @@ class AudioPlayer extends Player{
 
     [다형성과 동적 바인딩](https://www.notion.so/77dd1060f8ce4877ba117cb88ef3bfe0)
 
-    [[JAVA] Static Method Dispatch, Dynamic Method Dispatch, Double Dispatch](https://www.notion.so/JAVA-Static-Method-Dispatch-Dynamic-Method-Dispatch-Double-Dispatch-d734481ee3444563852aa06d2812fec8)
+    [Static Method Dispatch, Dynamic Method Dispatch, Double Dispatch](https://www.notion.so/JAVA-Static-Method-Dispatch-Dynamic-Method-Dispatch-Double-Dispatch-d734481ee3444563852aa06d2812fec8)
