@@ -1,5 +1,6 @@
 ---
 title: "About"
-permalink : /about/
+permalink: /about/
+layout : archive
 ---
 this is a page about "About"
