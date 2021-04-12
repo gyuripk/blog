@@ -16,10 +16,10 @@ author_profile : true
 - 꾸준함 1일 1커밋 기술 블로그 운영
 
 
+
 # ⛏️ Skills
 
 ---
-
 ## Backend
 
 - Java
@@ -36,6 +36,7 @@ author_profile : true
 - JQuery
 
 
+
 # 👩🏻‍💻 Personal Experience & Projects
 
 ---
@@ -47,6 +48,7 @@ author_profile : true
 2021.01.11 ~ 2021.01.31
 
 - 
+
 
 
 # 📄 Education
