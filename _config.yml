@@ -91,6 +91,8 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+header:
+  image: /assets/images/sky.jpg
 
 # Site Author
 author:
