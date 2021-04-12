@@ -27,7 +27,7 @@ repository               : "rbfl6418/rbfl6418.github.io"# GitHub username/repo-n
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -92,7 +92,7 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 header:
-  image: /assets/images/sky.jpg
+  teaser: /assets/sky.png
 
 # Site Author
 author:
