@@ -40,7 +40,7 @@ author_profile : true
 
 ## 구인/구직 사이트
 
-[https://github.com/akflzmsdjsl/careerBasket](https://github.com/akflzmsdjsl/careerBasket)
+[Github주소](https://github.com/akflzmsdjsl/careerBasket)
 
 2021.01.11 ~ 2021.01.31
 
