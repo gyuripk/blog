@@ -49,6 +49,7 @@ author_profile : true
 2021.01.11 ~ 2021.01.31
 
 [🗑️CareerBasket](https://www.notion.so/CareerBasket-f7dbf08e65394470b9f48458da00dfe7)
+
 [Github주소](https://github.com/akflzmsdjsl/careerBasket)
 
 - 검색, 채용공고 관련 DB설계 및 구축
