@@ -46,13 +46,15 @@ author_profile : true
 ---
 ## 구인/구직 사이트
 
-[Github주소](https://github.com/akflzmsdjsl/careerBasket)
-
 2021.01.11 ~ 2021.01.31
 
-- DB 설계 구현
-- 비동기 방식 검색기능
-- 상세페이지, 지원하기 모달창 구현
+[🗑️CareerBasket](https://www.notion.so/CareerBasket-f7dbf08e65394470b9f48458da00dfe7)
+[Github주소](https://github.com/akflzmsdjsl/careerBasket)
+
+- 검색, 채용공고 관련 DB설계 및 구축
+- ajax를 사용하여 검색 페이지 기능 구현
+- 채용 공고 상세페이지 및 지원하기 모달창 구현
+- 입사 지원 현황 페이지 구현
 <br/>
 <br/>
 
@@ -63,11 +65,14 @@ author_profile : true
 
 2020.09 ~ 2021.03
 
-- Java언어
-- 데이터 베이스 MySQL
-- html,css,JavaScript
-- JQuery, JSP
-- Android Studio
-- 활용 툴 - eclipse, github
+- JAVA 문법을 익히고 Spring Framwork를 활
+용하여 다양한 웹 기능 구현
+- JavaScript,html,css를 활용하여 동적인 UI
+설계, 구현
+- MySQL을 이용하여 데이터베이스 설계 및
+SQL활용, 관리
+- Android Studio를 이용해 앱 설계 및 화면
+구성, 디비 연동 여러 기능 구현
+- github을 통한 분산 버전 관리 및 협업 프로젝트 진행
 
 
