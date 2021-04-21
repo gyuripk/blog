@@ -2,7 +2,7 @@
 title: "About me"
 permalink: /about/
 layout : archive
-author_profile : true
+author_profile : false
 ---
 
 # 라이프 스타일을 바꾸는 개발자
