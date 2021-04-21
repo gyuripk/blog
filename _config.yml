@@ -91,9 +91,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-header:
-  teaser: /assets/sky.png
-
 # Site Author
 author:
   name             : "Gyuri Park"
