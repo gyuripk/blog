@@ -29,6 +29,7 @@ author_profile : true
 - Maven
 - Junit 4
 - Tomcat
+- MySQL
 
 
 ## Frontend
