@@ -21,12 +21,12 @@ author_profile : true
 
 # ⛏️ Skills
 ---
-## Backend
+## Backend                                 ## Frontend
 
-- Java
-- JSP
-- Spring Boot, Spring MVC
-- Maven
+- Java                                     - HTML5, CSS3
+- JSP                                      - JavaScript
+- Spring Boot, Spring MVC                  - JQuery
+- Maven                                    - bootstrap
 - Junit 4
 - Tomcat
 - MySQL
