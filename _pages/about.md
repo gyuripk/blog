@@ -24,13 +24,12 @@ author_profile : true
 ## Backend
 
 - Java
-- Spring Boot, Spring MVC
 - JSP
-- Maven, Gradle
+- Spring Boot, Spring MVC
+- Maven
 - Junit 4
-- Eclipse
-- Git
-- postman
+- Tomcat
+
 
 ## Frontend
 
@@ -38,6 +37,14 @@ author_profile : true
 - JavaScript
 - JQuery
 - bootstrap
+
+## Tools
+
+- Eclipse
+- Postman
+- Android Studio
+- Github
+
 
 <br/>
 <br/>
