@@ -46,7 +46,6 @@ author_profile : true
 - Android Studio
 - Github
 
-
 <br/>
 <br/>
 
@@ -64,9 +63,9 @@ author_profile : true
 - ajax를 사용하여 검색 페이지 기능 구현
 - 채용 공고 상세페이지 및 지원하기 모달창 구현
 - 입사 지원 현황 페이지 구현
-<br/>
-<br/>
 
+<br/>
+<br/>
 
 # 📄 Education
 ---
