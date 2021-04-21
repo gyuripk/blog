@@ -59,9 +59,9 @@ author_profile : true
 <br/>
 <br/>
 
----
-# 📄 Education
 
+# 📄 Education
+---
 ## 웹 & 앱 개발자 양성과정 수료
 
 2020.09 ~ 2021.03
