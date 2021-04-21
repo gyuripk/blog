@@ -211,6 +211,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji #이모지 사용하기 위해 
 
 # mimic GitHub Pages with --safe
 whitelist:
