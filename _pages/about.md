@@ -66,14 +66,10 @@ author_profile : true
 
 2020.09 ~ 2021.03
 
-- JAVA 문법을 익히고 Spring Framwork를 활
-용하여 다양한 웹 기능 구현
-- JavaScript,html,css를 활용하여 동적인 UI
-설계, 구현
-- MySQL을 이용하여 데이터베이스 설계 및
-SQL활용, 관리
-- Android Studio를 이용해 앱 설계 및 화면
-구성, 디비 연동 여러 기능 구현
+- JAVA 문법을 익히고 Spring Framwork를 활용하여 다양한 웹 기능 구현
+- JavaScript,html,css를 활용하여 동적인 UI 설계, 구현
+- MySQL을 이용하여 데이터베이스 설계 및 SQL활용, 관리
+- Android Studio를 이용해 앱 설계 및 화면 구성, 디비 연동 여러 기능 구현
 - github을 통한 분산 버전 관리 및 협업 프로젝트 진행
 
 
