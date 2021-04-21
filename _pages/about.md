@@ -50,7 +50,7 @@ author_profile : true
 
 [🗑️CareerBasket](https://www.notion.so/CareerBasket-f7dbf08e65394470b9f48458da00dfe7)
 
-[Github주소](https://github.com/akflzmsdjsl/careerBasket)
+[:octocat:Github주소](https://github.com/akflzmsdjsl/careerBasket)
 
 - 검색, 채용공고 관련 DB설계 및 구축
 - ajax를 사용하여 검색 페이지 기능 구현
