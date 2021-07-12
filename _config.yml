@@ -222,6 +222,11 @@ whitelist:
   - jekyll-include-cache
 
 
+gems:
+  - jekyll-paginate
+  - jekyll-gist   
+
+
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -276,7 +281,3 @@ defaults:
         nav: "docs"
       toc: true
       toc_sticky: true
-
-gems:
-  - jekyll-paginate
-  - jekyll-gist   
