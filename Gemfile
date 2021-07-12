@@ -1,14 +1,14 @@
-# source "https://rubygems.org"
-# gemspec
+source "https://rubygems.org"
+gemspec
 
-$ cat Gemfile
-source 'https://rubygems.org'
-gem 'jekyll'
+# $ cat Gemfile
+# source 'https://rubygems.org'
+# gem 'jekyll'
 
-group :jekyll_plugins do
-  gem "jekyll-paginate"
-  gem "pygments.rb"
-  gem "jekyll-gist"
-end
+# group :jekyll_plugins do
+#   gem "jekyll-paginate"
+#   gem "pygments.rb"
+#   gem "jekyll-gist"
+# end
 
-$ bundle install
+# $ bundle install
