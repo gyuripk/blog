@@ -277,4 +277,6 @@ defaults:
       toc: true
       toc_sticky: true
 
-   
+gems:
+  - jekyll-paginate
+  - jekyll-gist   
