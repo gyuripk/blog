@@ -222,9 +222,9 @@ whitelist:
   - jekyll-include-cache
 
 
-gems:
-  - jekyll-paginate
-  - jekyll-gist   
+# gems:
+#   - jekyll-paginate
+#   - jekyll-gist   
 
 
 # Archives
