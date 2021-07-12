@@ -1,11 +1,11 @@
-group :jekyll_plugins do
-  gem "jekyll-gist"
-  gem "jekyll-coffeescript"
-  gem "jekyll-assets"
-  gem "another-jekyll-plugin"
-end
-# source "https://rubygems.org"
-# gemspec
+# group :jekyll_plugins do
+#   gem "jekyll-gist"
+#   gem "jekyll-coffeescript"
+#   gem "jekyll-assets"
+#   gem "another-jekyll-plugin"
+# end
+source "https://rubygems.org"
+gemspec
 
 # $ cat Gemfile
 # source 'https://rubygems.org'
