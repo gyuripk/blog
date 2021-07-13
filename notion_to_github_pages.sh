@@ -100,7 +100,7 @@ for exported_foldername in ${exported_foldername_array[*]}; do
     # Changing a image path in exported_filename.md
     exported_filename_for_images_path=$(echo "$exported_filename" | sed 's/ /%20/g') # 파일명에 공백있는 경우: %20으로 수정. 추후 md 내 이미지 경로에 이용
 #     sed -i '' "s|"$exported_filename_for_images_path"/Untitled|/$images_folder_path/$fixed_filename/Untitled|g" "$exported_file_path"
-    sed -i "s|"$exported_filename_for_images_path"/Untitled|/$images_folder_path/$fixed_filename/Untitled|g" "$exported_file_path"
+    sed -i "s|"$exported_filename_for_images_path"/Untitled|/$images_folder_path/$(date +%Y)/$(date +%m)/$(date +%d)/Untitled|g" "$exported_file_path"
 
     # Changing a file name and move
     # If directories not exist, make it. 
