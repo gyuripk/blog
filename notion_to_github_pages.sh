@@ -105,7 +105,7 @@ for exported_foldername in ${exported_foldername_array[*]}; do
     # Changing a file name and move
     # If directories not exist, make it. 
     mkdir -p $posts_folder_path
-    mkdir -p $images_folder_path
+    mkdir -p $images_folder_path/$(date +%Y)/$(date +%m)/$(date +%d)
 
     mv -i -v "$exported_file_path" "$posts_folder_path/$fixed_filename.md"
     mv -i -v "$exported_foldername/$exported_filename" "$images_folder_path/$(date +%Y)/$(date +%m)/$(date +%d)/$meta_title_encoded"
