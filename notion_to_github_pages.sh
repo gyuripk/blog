@@ -94,23 +94,13 @@ for exported_foldername in ${exported_foldername_array[*]}; do
     sed -i "" -e $'6 a\\\n'"last_modified_at: $meta_last_modified_at" "$exported_file_path"
     sed -i "" -e $'7 a\\\n'"---" "$exported_file_path"
 
-
-#     # Making a post file name
-#     fixed_filename="$(date +%Y)-$(date +%m)-$(date +%d)-$meta_title_encoded"
-#     img_date_path="$(date +%Y)/$(date +%m)/$(date +%d)/$meta_title_encoded"
-    
-#     # Changing a image path in exported_filename.md
-#     exported_filename_for_images_path=$(echo "$exported_filename" | sed 's/ /%20/g') # 파일명에 공백있는 경우: %20으로 수정. 추후 md 내 이미지 경로에 이용
-# #     sed -i '' "s|"$exported_filename_for_images_path"/Untitled|/$images_folder_path/$img_date_path/Untitled|g" "$exported_file_path"
-#     sed -i "s|"$exported_filename_for_images_path"/Untitled|/$images_folder_path/$img_date_path/Untitled|g" "$exported_file_path"
-
-
     # Making a post file name
     fixed_filename="$(date +%Y)-$(date +%m)-$(date +%d)-$meta_title_encoded"
 
     # Changing a image path in exported_filename.md
     exported_filename_for_images_path=$(echo "$exported_filename" | sed 's/ /%20/g') # 파일명에 공백있는 경우: %20으로 수정. 추후 md 내 이미지 경로에 이용
-    sed -i '' "s|"$exported_filename_for_images_path"/Untitled|/$images_folder_path/$fixed_filename/Untitled|g" "$exported_file_path"
+#     sed -i '' "s|"$exported_filename_for_images_path"/Untitled|/$images_folder_path/$fixed_filename/Untitled|g" "$exported_file_path"
+    sed -i "s|"$exported_filename_for_images_path"/Untitled|/$images_folder_path/$fixed_filename/Untitled|g" "$exported_file_path"
 
     # Changing a file name and move
     # If directories not exist, make it. 
@@ -118,11 +108,11 @@ for exported_foldername in ${exported_foldername_array[*]}; do
     mkdir -p $images_folder_path
 
     mv -i -v "$exported_file_path" "$posts_folder_path/$fixed_filename.md"
-    mv -i -v "$exported_foldername/$exported_filename" "$images_folder_path/$fixed_filename"
+    mv -i -v "$exported_foldername/$exported_filename" "$images_folder_path/$(date +%Y)/$(date +%m)/$(date +%d)/$meta_title_encoded"
 
     # git add
     git add "$posts_folder_path/$fixed_filename.md"
-    git add "$images_folder_path/$fixed_filename"
+    git add "$images_folder_path/$(date +%Y)/$(date +%m)/$(date +%d)/$meta_title_encoded"
     git commit -m "$fixed_filename is uploaded"
 
     rm -r "$exported_foldername"
