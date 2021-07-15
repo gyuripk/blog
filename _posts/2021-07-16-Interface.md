@@ -33,7 +33,7 @@ last_modified_at: 2021-07-16 00:28:43 +0000
 
 접근제어자 public 또는 default를 사용할 수 있다. (생략가능)
 
-[https://gist.github.com/rbfl6418/471d9dc6dbaae447f4f0f1d4fd89ff99](https://gist.github.com/rbfl6418/471d9dc6dbaae447f4f0f1d4fd89ff99)
+{% gist rbfl6418/471d9dc6dbaae447f4f0f1d4fd89ff99%}
 
 [참고] 이름은 주로 '~을 할 수 있는'의 의미인 'able'로 끝나는 것들이 많다.
 
@@ -48,7 +48,7 @@ JDK 1.8 이전 버전 : 상수  + 추상클래스 이렇게 두가지만 가질 
 
 [주의!]  (JDK 1.8 이후부터) static메서드와 default 메서드도 추가할 수 있다.
 
-[https://gist.github.com/rbfl6418/2d7aa45d1a901e16e1469c5da2523fc3](https://gist.github.com/rbfl6418/2d7aa45d1a901e16e1469c5da2523fc3)
+{% gist rbfl6418/2d7aa45d1a901e16e1469c5da2523fc3%}
 
 ---
 
@@ -61,7 +61,7 @@ JDK 1.8 이전 버전 : 상수  + 추상클래스 이렇게 두가지만 가질 
 인터페이스는 인터페이스로부터만 상속받을 수 있고, 클래스와 달리 다중상속이 가능하다. 
 클래스의 상속과 마찬가지로 조상인터페이스의 멤버(상수, 추상 메서드)를 모두 상속받아 사용할 수 있다. 
 
-[https://gist.github.com/rbfl6418/d23e1ea542b8fdf6693fa538b21ee4bd](https://gist.github.com/rbfl6418/d23e1ea542b8fdf6693fa538b21ee4bd)
+{% gist rbfl6418/d23e1ea542b8fdf6693fa538b21ee4bd%}
 
 [참고] 인터페이스는 클래스와 달리 Object클래스와 같은 최고 조상이 없다.
 
@@ -72,11 +72,11 @@ JDK 1.8 이전 버전 : 상수  + 추상클래스 이렇게 두가지만 가질 
 그래서 상속을 통해서 정의된 추상메서드를 구현하는 클래스를 작성해야만 인스턴스를 생성할 수 있다. 
 구현한다는 의미에서 'implements' 키워드를 사용한다.  
 
-[https://gist.github.com/rbfl6418/2bb93cd4dc91d0c83b3115b36bc925ec](https://gist.github.com/rbfl6418/2bb93cd4dc91d0c83b3115b36bc925ec)
+{% gist rbfl6418/2bb93cd4dc91d0c83b3115b36bc925ec%}
 
 인터페이스의 메서드를 오버라이딩해 준다.
 
-[https://gist.github.com/rbfl6418/2628a2b14545e67f54d760f5b014570e](https://gist.github.com/rbfl6418/2628a2b14545e67f54d760f5b014570e)
+{% gist rbfl6418/2628a2b14545e67f54d760f5b014570e%}
 
 [주의!] 
 
@@ -96,7 +96,7 @@ public → default로 좁은 범위로 제한 하는 것은 컴파일 에러가 
 어차피 아직 구현이 안된 추상 메서드이므로, 같은 메서드를 상속 받아도 한 번만 구현하면 된다.
 (구현부 내용이 겹쳐 에러가 날 일이 없다.)
 
-[https://gist.github.com/rbfl6418/9276f7871c55d57703e049079c77ce35](https://gist.github.com/rbfl6418/9276f7871c55d57703e049079c77ce35)
+{% gist rbfl6418/9276f7871c55d57703e049079c77ce35%}
 
 ### 인터페이스 레퍼런스(참조)를 통해 구현체를 사용하는 방법  
 → 인터페이스를 이용한 다형성
@@ -121,7 +121,7 @@ public → default로 좁은 범위로 제한 하는 것은 컴파일 에러가 
 
 예제2 계층구조
 
-[https://gist.github.com/rbfl6418/e13a4626bc3b2fcd175d88579c1970b4](https://gist.github.com/rbfl6418/e13a4626bc3b2fcd175d88579c1970b4)
+{% gist rbfl6418/e13a4626bc3b2fcd175d88579c1970b4%}
 
 이처럼 구현 클래스뿐만 아니라 상위 인터페이스, 하위 인터페이스 모두 참조타입으로 사용할 수 있다. 즉, 인터페이스 참조로 다형성을 구현해 클래스들을 사용할 수 있다.
 
@@ -131,7 +131,7 @@ IPhone에는 Calculatable,internet,Phone의 모든 메서드들이 구현되어 
 
 **예제2**
 
-[https://gist.github.com/rbfl6418/a4b87c7b4997a1ae9e9d72beb7200b71](https://gist.github.com/rbfl6418/a4b87c7b4997a1ae9e9d72beb7200b71)
+{% gist rbfl6418/a4b87c7b4997a1ae9e9d72beb7200b71%}
 
 <실행 결과> 
 
@@ -166,7 +166,7 @@ default 메소드는 오버라이딩하지 않으면 인터페이스에 구현�
 
 즉, 디폴트 메서드가 추가되어도 해당 인터페이스를 구현한 모든 클래스들에 하나하나 다 구현하지 않고, 필요한 것을 선택적으로 오버라이딩할 수 있도록 해준다. 
 
-[https://gist.github.com/rbfl6418/cae76123b3cfb0e5be8c90014efd7692](https://gist.github.com/rbfl6418/cae76123b3cfb0e5be8c90014efd7692)
+{% gist rbfl6418/cae76123b3cfb0e5be8c90014efd7692%}
 
 ### 인터페이스의 static 메서드 - 자바8
 
@@ -184,7 +184,7 @@ static 메소드는 오버라이딩할 수 없기 때문에  주로 구현부 �
 **Q.** Can we override a static method?
 **A.** **No,** we cannot override static methods because method overriding is based on dynamic binding at runtime and the static methods are bonded using static binding at compile time. So, we cannot override static methods.
 
-[https://gist.github.com/rbfl6418/fd8ee93f8dcced623c26d1e990198fc4](https://gist.github.com/rbfl6418/fd8ee93f8dcced623c26d1e990198fc4)
+{% gist rbfl6418/fd8ee93f8dcced623c26d1e990198fc4%}
 
 결과 : static method!
 
@@ -195,7 +195,7 @@ static 메소드는 오버라이딩할 수 없기 때문에  주로 구현부 �
 - private method
 - private static method
 
-[https://gist.github.com/rbfl6418/400384561df0eac16bdc25390fc7dcb4](https://gist.github.com/rbfl6418/400384561df0eac16bdc25390fc7dcb4)
+{% gist rbfl6418/400384561df0eac16bdc25390fc7dcb4%}
 
 ---
 
