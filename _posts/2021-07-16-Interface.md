@@ -3,8 +3,8 @@ title: Interface
 subtitle: "자바의 인터페이스에 대해 알아보자!"
 categories: Java
 tags: Study
-date: 2021-07-16 00:28:42 +0000
-last_modified_at: 2021-07-16 00:28:43 +0000
+date: 2021-04-03 00:28:42 +0000
+last_modified_at: 2021-04-03 00:28:43 +0000
 ---
 # Interface
 
