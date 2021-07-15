@@ -6,7 +6,7 @@ tags: Study
 date: 2021-07-16 00:28:42 +0000
 last_modified_at: 2021-07-16 00:28:43 +0000
 ---
-# Interface
+# Interface 
 
 > 학습 목표 : 자바의 인터페이스에 대해 알아보자!
 
