@@ -5,7 +5,8 @@
 # Contact: uoneway@gmail.com
 
 
-#중요!! 파일명에 한글 있으면 안됨!
+#중요!! 노션 제목에 한글 있으면 안됨!
+# 노션 사진 이름이 Untitled이 아니면 안됨!
 
 
 # REPLACE THIS as your github.io structure
