@@ -45,13 +45,13 @@ last_modified_at: 2021-07-15 23:36:59 +0000
 
 다른 패키지에 있는 클래스를 가져다 사용하고 싶을 때 쓰는 키워드로 '패키지명'을 생략할 수 있다. 결국, 코드를 간결히 하기위해서 사용하는 키워드이다. 
 
-[https://gist.github.com/rbfl6418/02fd4e4143e7a693fc67f6ddbc23df9e](https://gist.github.com/rbfl6418/02fd4e4143e7a693fc67f6ddbc23df9e)
+{% gist rbfl6418/02fd4e4143e7a693fc67f6ddbc23df9e %}
 
 ### static import문
 
 static import문을 사용해 static멤버를 호출할 때 '클래스 이름'을 생략할 수 있다. 
 
-[https://gist.github.com/rbfl6418/84263c1c6007d9a40869ae04890bb8e2](https://gist.github.com/rbfl6418/84263c1c6007d9a40869ae04890bb8e2)
+{% gist rbfl6418/84263c1c6007d9a40869ae04890bb8e2 %}
 
 ---
 
