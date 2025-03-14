@@ -96,7 +96,7 @@ author:
   name             : "Gyuri Park"
   avatar           : "/assets/myemoji.jpg"
   bio              : "라이프스타일을 바꾸는 개발자"
-  location         : "South Korea"
+  # location         : "Brisbane"
   email            : #"rbfl6418@gmail.com"
   links:
     - label: "GitHub"
