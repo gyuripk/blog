@@ -21,9 +21,9 @@ title_separator          : ""
 subtitle                 : #
 name                     : "Gyuri Park"
 description              : 
-url                      : "https://rbfl6418.github.io"
+url                      : "https://gyuripk.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "rbfl6418/rbfl6418.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "gyuripk/gyuripk.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -101,7 +101,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rbfl6418"
+      url: "https://github.com/gyuripk"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "rbfl6418@gmail.com"  
@@ -121,7 +121,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rbfl6418"
+      url: "https://github.com/gyuripk"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
